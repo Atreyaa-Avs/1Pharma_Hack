@@ -1,0 +1,24 @@
+{
+  "queries": {
+    "1": {
+      "query": "Ava",
+      "type": "prefix"
+    },
+    "2": {
+      "query": "Paracetamol",
+      "type": "fuzzy"
+    },
+    "3": {
+      "query": "Injection",
+      "type": "substring"
+    },
+    "4": {
+      "query": "antibiotic",
+      "type": "fulltext"
+    },
+    "5": {
+      "query": "painkiller",
+      "type": "fulltext"
+    }
+  }
+}

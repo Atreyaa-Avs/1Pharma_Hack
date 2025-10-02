@@ -1,0 +1,178 @@
+{
+  "Ava": {
+    "/search/prefix": {
+      "avg_latency_ms": 587.4914540001191,
+      "throughput_rps": 73.24174404404434,
+      "sample_response_count": 50,
+      "sample_response_preview": [
+        {
+          "name": "Avacan 80mg Tablet",
+          "manufacturer_name": "Khandelwal Laboratories Pvt Ltd",
+          "marketer_name": "Khandelwal Laboratories Pvt Ltd",
+          "type": "allopathy",
+          "price": "43"
+        },
+        {
+          "name": "Avacan M 80 mg/250 mg Tablet",
+          "manufacturer_name": "Khandelwal Laboratories Pvt Ltd",
+          "marketer_name": "Khandelwal Laboratories Pvt Ltd",
+          "type": "allopathy",
+          "price": "54.89"
+        },
+        {
+          "name": "Avacard 5mg Tablet",
+          "manufacturer_name": "Sun Pharmaceutical Industries Ltd",
+          "marketer_name": "Sun Pharmaceutical Industries Ltd",
+          "type": "allopathy",
+          "price": "24.97"
+        },
+        {
+          "name": "Avace P 100mg/325mg Tablet",
+          "manufacturer_name": "Adenscot Healthcare",
+          "marketer_name": "Adenscot Healthcare",
+          "type": "allopathy",
+          "price": "40"
+        },
+        {
+          "name": "Avace R 100mg/20mg Tablet",
+          "manufacturer_name": "Adenscot Healthcare",
+          "marketer_name": "Adenscot Healthcare",
+          "type": "allopathy",
+          "price": "140"
+        }
+      ]
+    }
+  },
+  "Injection": {
+    "/search/substring": {
+      "avg_latency_ms": 5064.922528000316,
+      "throughput_rps": 8.859004984548253,
+      "sample_response_count": 50,
+      "sample_response_preview": [
+        {
+          "name": "Injection",
+          "manufacturer_name": "Pariza Healthcare",
+          "marketer_name": "Pariza Healthcare",
+          "type": "allopathy",
+          "price": "60"
+        },
+        {
+          "name": "Injection",
+          "manufacturer_name": "Wallnutree Neurosciences India Pvt Ltd",
+          "marketer_name": "Wallnutree Neurosciences India Pvt Ltd",
+          "type": "allopathy",
+          "price": "55"
+        },
+        {
+          "name": "Injek Injection",
+          "manufacturer_name": "Neon Laboratories Ltd",
+          "marketer_name": "Neon Laboratories Ltd",
+          "type": "allopathy",
+          "price": "25.4"
+        },
+        {
+          "name": "NS Injection",
+          "manufacturer_name": "Aculife Healthcare Private Limited",
+          "marketer_name": "Aculife Healthcare Private Limited",
+          "type": "allopathy",
+          "price": "64"
+        },
+        {
+          "name": "OP Injection",
+          "manufacturer_name": "Monokem Labs",
+          "marketer_name": "Monokem Labs",
+          "type": "allopathy",
+          "price": "6.22"
+        }
+      ]
+    }
+  },
+  "antibiotic": {
+    "/search/fulltext": {
+      "avg_latency_ms": 125.60207200061996,
+      "throughput_rps": 217.7824605838181,
+      "sample_response_count": 50,
+      "sample_response_preview": [
+        {
+          "name": "Neosporin Antibiotic Ointment",
+          "manufacturer_name": "Glaxo SmithKline Pharmaceuticals Ltd",
+          "marketer_name": "Glaxo SmithKline Pharmaceuticals Ltd",
+          "type": "allopathy",
+          "price": "131.6"
+        },
+        {
+          "name": "Nanzisporin Antibiotic Sprinkling Powder",
+          "manufacturer_name": "Nanz Med Science Pharma Ltd",
+          "marketer_name": "Nanz Med Science Pharma Ltd",
+          "type": "allopathy",
+          "price": "78"
+        },
+        {
+          "name": "Allzole 20mg Injection",
+          "manufacturer_name": "Human Antibiotic Pharmaceuticals Pvt Ltd",
+          "marketer_name": "Human Antibiotic Pharmaceuticals Pvt Ltd",
+          "type": "allopathy",
+          "price": "64"
+        },
+        {
+          "name": "Alerbloc 5mg/5ml Suspension",
+          "manufacturer_name": "Karnataka Antibiotics & Pharmaceuticals Ltd",
+          "marketer_name": "Karnataka Antibiotics & Pharmaceuticals Ltd",
+          "type": "allopathy",
+          "price": "25.26"
+        },
+        {
+          "name": "Brethnol Syrup",
+          "manufacturer_name": "Bangalore Antibiotics & Biologicals Pvt Ltd",
+          "marketer_name": "Bangalore Antibiotics & Biologicals Pvt Ltd",
+          "type": "allopathy",
+          "price": "15.54"
+        }
+      ]
+    }
+  },
+  "Avastn": {
+    "/search/fuzzy": {
+      "avg_latency_ms": 7314.959175999975,
+      "throughput_rps": 5.985341587215083,
+      "sample_response_count": 20,
+      "sample_response_preview": [
+        {
+          "name": "Avastin 20mg Tablet",
+          "manufacturer_name": "Aglowmed Drugs Pvt. Ltd.",
+          "marketer_name": "Aglowmed Drugs Pvt. Ltd.",
+          "type": "allopathy",
+          "price": "94.65"
+        },
+        {
+          "name": "Avastin 400mg Injection",
+          "manufacturer_name": "Roche Products India Pvt Ltd",
+          "marketer_name": "Roche Products India Pvt Ltd",
+          "type": "allopathy",
+          "price": "123506"
+        },
+        {
+          "name": "Avastin 10mg Tablet",
+          "manufacturer_name": "Orchid Chemicals & Pharmaceuticals Ltd",
+          "marketer_name": "Orchid Chemicals & Pharmaceuticals Ltd",
+          "type": "allopathy",
+          "price": "49.97"
+        },
+        {
+          "name": "Avastin 100mg Injection",
+          "manufacturer_name": "Roche Products India Pvt Ltd",
+          "marketer_name": "Roche Products India Pvt Ltd",
+          "type": "allopathy",
+          "price": "33863"
+        },
+        {
+          "name": "Avastimab 400mg Injection",
+          "manufacturer_name": "RPG Life Sciences Ltd",
+          "marketer_name": "RPG Life Sciences Ltd",
+          "type": "allopathy",
+          "price": "52500"
+        }
+      ]
+    }
+  }
+}
